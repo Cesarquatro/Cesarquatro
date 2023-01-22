@@ -31,8 +31,8 @@
 <div style="display: inline_block" align="center">
  <img align="center" alt="Pandas" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
  <img align="center" alt="Numpy" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"/>
- <img align="center" alt="OpenCV" height="47" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg"/>
- <img align="center" alt="TensorFlow" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg"/>
+ <img align="center" alt="OpenCV" height="47" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
+ <img align="center" alt="TensorFlow" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
 </div>
 
 ## ⚙ Others:
