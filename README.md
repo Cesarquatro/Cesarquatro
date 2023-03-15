@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;I'm+Cesarquatro!;Welcome+to+my+Github+profile.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
@@ -26,6 +28,8 @@ Thank you for visiting my profile, and I hope you find something of interest her
  <img align="center" alt="ReactJS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 </div>-->
 
+<details> 
+<summary><h2>🛠️ Languages and tools </h2></summary>
 
 ## 🧭 Back-end:
 <div style="display: inline_block" align="center">
@@ -55,3 +59,4 @@ Thank you for visiting my profile, and I hope you find something of interest her
  <img align="center" alt="Dart" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
  <img align="center" alt="Flutter" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 </div>
+</h2>
