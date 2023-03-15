@@ -1,4 +1,6 @@
-## 👻 Welcome!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;I'm+Cesarquatro!;Welcome+to+my+Github+profile.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 <div style="display: inline_block" align="justify">
 I am a Control and Automation Engineering student at Unesp, 20 years old and passionate about programming and technology.
 
