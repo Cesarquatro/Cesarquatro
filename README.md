@@ -1,6 +1,12 @@
 ## 👻 Welcome!
 <div style="display: inline_block" align="justify">
-"Here’s to the crazy ones, the misfits, the rebels, the troublemakers, the round pegs in the square hole. The ones who see things differently, they’re not fond of rules, you can quote them, disagree with them, glorify or vilify them, but the only thing you can’t do is ignore them because they change things. They push the human race forward, and while some may see them as the crazy ones, we see genius, because the ones who are crazy enough to think that they can change the world, are the ones who do." - Apple, 1997.
+I am a Control and Automation Engineering student at Unesp, 20 years old and passionate about programming and technology.
+
+Currently, my main interest is the application of image recognition and artificial intelligence in robotics. I am always looking for new ways to improve my skills and knowledge in these areas, and I love to share my experiences and learning with the community.
+
+In addition, I am also open to collaborating on open-source projects and contributing to the improvement of existing tools and technologies. If you have any questions, comments, or just want to exchange ideas, feel free to get in touch with me.
+
+Thank you for visiting my profile, and I hope you find something of interest here!
 </div>
 
 ## 🚀 Statistics:
