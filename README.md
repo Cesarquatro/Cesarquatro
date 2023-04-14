@@ -13,7 +13,7 @@ In addition, I am also open to collaborating on open-source projects and contrib
 Thank you for visiting my profile, and I hope you find something of interest here!
 </div>
 
-## 🚀 Statistics:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Statistics:
 <div style="display: inline_block" align="center">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Cesarquatro&show_icons=true&theme=tokyonight"/> 
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarquatro&layout=compact&langs_count=7&theme=tokyonight"/>
