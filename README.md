@@ -41,14 +41,16 @@ Thank you for visiting my profile, and I hope you find something of interest her
  <img align="center" alt="Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
 
-## <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python-libs:
+## <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-white.svg"/> Python-libs:
 <div style="display: inline_block" align="center">
- <img align="center" alt="Pandas" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+ 
+  
  <img align="center" alt="Numpy" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
  <img align="center" alt="Matplotlib" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
  <img align="center" alt="OpenCV" height="47" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
  <img align="center" alt="TensorFlow" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
  <img align="center" alt="ScikitLearn" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
+ <img align="center" alt="Pandas" height="50" src="https://pandas.pydata.org//static/img/favicon_white.ico"/>
   
 </div>
 
