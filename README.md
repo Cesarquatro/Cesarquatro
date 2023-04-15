@@ -41,9 +41,8 @@ Thank you for visiting my profile, and I hope you find something of interest her
  <img align="center" alt="Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
 
-## <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-white.svg"/> Python-libs:
+## <img align="center" alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python-libs:
 <div style="display: inline_block" align="center">
- 
   
  <img align="center" alt="Numpy" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
  <img align="center" alt="Matplotlib" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
