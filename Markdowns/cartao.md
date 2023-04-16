@@ -6,7 +6,7 @@
 - Competidor em olimpídas de robótica no nível fundamental e médio (6 anos)
 - Conhecimentos em python nas áreas:
   - Análise e Visualização de Dados;
-  - Machine Learning e I.A.;
+  - Aprendizado de Máquina e I.A.;
   - Robótica com micropython;
   - Visão Computacional.
 - Principais links:
