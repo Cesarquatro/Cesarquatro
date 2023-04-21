@@ -34,7 +34,7 @@ Thank you for visiting my profile, and I hope you find something of interest her
 </div>-->
 
 <details> 
-<summary><h2><img src="https://github.com/Cesarquatro/Cesarquatro/blob/main/assets/MyIcon.gif" width="45" align="center"> Languages and tools </h2></summary>
+<summary><h2><img src="https://github.com/Cesarquatro/Cesarquatro/blob/main/assets/Myicon.gif" width="45" align="center"> Languages and tools </h2></summary>
 
 ## 🧭 Back-end:
 <div style="display: inline_block" align="center">
