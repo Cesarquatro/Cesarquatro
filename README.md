@@ -14,6 +14,11 @@ In addition, I am also open to collaborating on open-source projects and contrib
 
 Thank you for visiting my profile, and I hope you find something of interest here!
 </div>
+<div style="display: inline_block" align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cesarquatro/)&nbsp; [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-silva-bd20052002/?original)&nbsp; <a hlinghref="mailto:cesar.mendes@unesp.br" target="_blank"><img align="top" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Statistics:
 <div style="display: inline_block" align="center">
@@ -55,14 +60,14 @@ Thank you for visiting my profile, and I hope you find something of interest her
 
 ## ⚙ Others:
 <div style="display: inline_block" align="center">
- <img align="center" alt="MatLab" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
- <img align="center" alt="Arduino" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
- <img align="center" alt="Raspberry pi" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
+<img align="center" alt="MatLab" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
+<img align="center" alt="Arduino" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+<img align="center" alt="Raspberry pi" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
 </div>
 
 ## 📱 Mobile:
 <div style="display: inline_block" align="center">
- <img align="center" alt="Dart" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
- <img align="center" alt="Flutter" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<img align="center" alt="Dart" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+<img align="center" alt="Flutter" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 </div>
 </h2>
