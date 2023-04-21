@@ -1,5 +1,3 @@
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <p align="center">
@@ -20,7 +18,7 @@ Thank you for visiting my profile, and I hope you find something of interest her
 
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Statistics:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center"> Statistics:
 <div style="display: inline_block" align="center">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Cesarquatro&show_icons=true&theme=tokyonight"/> 
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarquatro&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -36,7 +34,7 @@ Thank you for visiting my profile, and I hope you find something of interest her
 </div>-->
 
 <details> 
-<summary><h2>🛠️ Languages and tools </h2></summary>
+<summary><h2><img src="https://github.com/Cesarquatro/Cesarquatro/blob/main/assets/MyIcon.gif" width="45" align="center"> Languages and tools </h2></summary>
 
 ## 🧭 Back-end:
 <div style="display: inline_block" align="center">
