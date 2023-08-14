@@ -24,15 +24,6 @@ Thank you for visiting my profile, and I hope you find something of interest her
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarquatro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<!--## 👾 Front-end:
-<div style="display: inline_block" align="center">
- <img align="center" alt="HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
- <img align="center" alt="CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
- <img align="center" alt="JavaScript" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
- <img align="center" alt="TypeScript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
- <img align="center" alt="ReactJS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-</div>-->
-
 <details> 
 <summary><h2><img src="https://github.com/Cesarquatro/Cesarquatro/blob/main/assets/Myicon.gif" width="45" align="center"> Languages and tools </h2></summary>
 
@@ -44,6 +35,16 @@ Thank you for visiting my profile, and I hope you find something of interest her
  <img align="center" alt="Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
 
+## 👾 Front-end:
+<div style="display: inline_block" align="center">
+ <img align="center" alt="HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+ <img align="center" alt="CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+</div>
+<!--##  <img align="center" alt="JavaScript" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+ <img align="center" alt="TypeScript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+ <img align="center" alt="ReactJS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+</div>-->
+  
 ## <img align="center" alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python-libs:
 <div style="display: inline_block" align="center">
   
