@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;I'm+Cesarquatro!;Welcome+to+my+Github+profile.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 <div style="display: inline_block" align="justify">
-I am a Control and Automation Engineering student at Unesp, 20 years old and passionate about programming and technology.
+I am a Control and Automation Engineering student at Unesp, 21 years old and passionate about programming and technology.
 
 Currently, my main interest is the application of image recognition and artificial intelligence in robotics. I am always looking for new ways to improve my skills and knowledge in these areas, and I love to share my experiences and learning with the community.
 
