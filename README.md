@@ -56,6 +56,8 @@ Thank you for visiting my profile, and I hope you find something of interest her
  <img align="center" alt="TensorFlow" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
  <img align="center" alt="ScikitLearn" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
  <img align="center" alt="Pandas" height="50" src="https://pandas.pydata.org//static/img/favicon_white.ico"/>
+ <img align="center" alt="Pitorch" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+          
   
 </div>
 
