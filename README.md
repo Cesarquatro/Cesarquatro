@@ -24,6 +24,14 @@ Thank you for visiting my profile, and I hope you find something of interest her
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarquatro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<picture>
+ <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    width=100%
+  />
+</picture>
+
 <details> 
 <summary><h2><img src="https://github.com/Cesarquatro/Cesarquatro/blob/main/assets/Myicon.gif" width="45" align="center"> Languages and tools </h2></summary>
 
@@ -73,5 +81,10 @@ Thank you for visiting my profile, and I hope you find something of interest her
 <div style="display: inline_block" align="center">
 <img align="center" alt="Dart" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
 <img align="center" alt="Flutter" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+
+
 </div>
+
 </h2>
+</details> 
+
